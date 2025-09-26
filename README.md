@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/ViniciusFFernandes">
-  <img height="180em" src="https://profile-statistics-fbxhra7dh.vercel.app/api?username=ViniciusFFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://profile-statistics-fbxhra7dh.vercel.app/api/top-langs/?username=ViniciusFFernandes&layout=compact&langs_count=7&theme=dark&locale=pt-br&count_private=true"/>
+    <img height="170" loading="lazy" src="https://profile-statistics-fbxhra7dh.vercel.app/api?username=ViniciusFFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=21600" />
+    <img height="170" loading="lazy" src="https://profile-statistics-fbxhra7dh.vercel.app/api/top-langs/?username=ViniciusFFernandes&layout=compact&langs_count=8&theme=dark&locale=pt-br&cache_seconds=21600" />
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
